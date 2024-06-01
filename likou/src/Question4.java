@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 力扣第四题 寻找两个正序数组的中位数
+ * 力扣第四题 寻找两个正序数组的中位数.
  */
 public class Question4 {
     public static void main(String[] args) {
